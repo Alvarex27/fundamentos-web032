@@ -1,0 +1,25 @@
+li{font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: blue;
+
+}
+body{background-image: url(/imagenes/fondo1.avif);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;}
+
+h3{background: #609af0;color: black;
+    padding: 10px 10px;}
+
+p{color: blue;}
+
+button{color: red; border: 2px solid blue;
+border-radius: 5px;}
+
+h2{border-color: blue;}
+
+input{background-color: #609af0;
+    border: 2px solid black;
+    border-radius: 5px;}
+
+h1{background: fixed #609af0;
+padding: 15px 15px;}
